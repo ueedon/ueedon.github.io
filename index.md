@@ -8,6 +8,7 @@ layout: home
 ### spring cloud 版本与组件版本
 
 #### spring cloud 官方
+
 |Component|Finchley.SR4|2020.5|2021.0.1|
 |----|----|----|----|
 |Spring Boot|2.0.x|2.4.x, 2.5.x (Starting with 2020.0.3)|2.6.x|
@@ -63,6 +64,7 @@ layout: home
 - [spring cloud 2020+](https://github.com/spring-cloud/spring-cloud-release/wiki/Spring-Cloud-2020.0-Release-Notes)
 
 spring cloud 版本线与生命周期
+
 | 版本线       | 生命周期      | 兼容 Spring Boot 版本                    |
 | --------- | --------- | ------------------------------------ |
 | 2022.x    | 未发布       | Spring Boot 3.0                      |
@@ -75,6 +77,7 @@ spring cloud 版本线与生命周期
 | Dalston   | 已停止维护     | Spring Boot 1.5.x                    |
 
 spring boot 版本线与生命周期
+
 | 版本                                                                                                                                                                                    | 发布时间       | 停止维护时间     | 停止商业支持    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------- | --------- |
 | 2.7.0                                                                                                                                                                                 | 2022/5/19  | 2023/5/18  | 2024/8/22 |
@@ -89,6 +92,7 @@ spring boot 版本线与生命周期
 
 #### spring cloud alibaba
 组件版本关系
+
 | Spring Cloud Alibaba Version                              | Sentinel Version | Nacos Version | RocketMQ Version | Dubbo Version | Seata Version |
 | --------------------------------------------------------- | ---------------- | ------------- | ---------------- | ------------- | ------------- |
 | 2021.0.1.0\*                                              | 1.8.3            | 1.4.2         | 4.9.2            | 2.7.15        | 1.4.2         |
@@ -103,6 +107,7 @@ spring boot 版本线与生命周期
 
 毕业版本依赖关系(推荐使用)
 下表为按时间顺序发布的 Spring Cloud Alibaba 以及对应的适配 Spring Cloud 和 Spring Boot 版本关系（由于 Spring Cloud 版本命名有调整，所以对应的 Spring Cloud Alibaba 版本号也做了对应变化）
+
 | Spring Cloud Alibaba Version | Spring Cloud Version        | Spring Boot Version |
 | ---------------------------- | --------------------------- | ------------------- |
 | 2021.0.1.0                   | Spring Cloud 2021.0.1       | 2.6.3               |
